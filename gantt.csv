@@ -1,0 +1,6 @@
+task;start;end;department;completion
+task1;14-Jun-2021;18-Jun-2021;Adam;100
+task2;16-Jun-2021;24-Jun-2021;Pablo;100
+task3;18-Jun-2021;22-Jun-2021;Pablo;100
+task4;22-Jun-2021;25-Jun-2021;Adam;90
+task5;22-Jun-2021;30-Jun-2021;Carlos;60
